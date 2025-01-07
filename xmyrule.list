@@ -1,0 +1,11 @@
+# rule
+# DOMAIN 完全匹配域名
+# DOMAIN-SUFFIX 匹配域名后缀 DOMAIN-KEYWORD
+# DOMAIN-KEYWORD 匹配域名关键词
+
+# 萌番组
+# 次元城
+
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,cycdm01.top
+DOMAIN-SUFFIX,cyc-anime.net
