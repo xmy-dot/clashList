@@ -10,5 +10,6 @@
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,cycdm01.top
 DOMAIN-SUFFIX,cyc-anime.net
-#DOMAIN-SUFFIX,op.gg
-#DOMAIN-SUFFIX,opgg-static.akamaized.net
+
+# DOMAIN-SUFFIX,op.gg
+# DOMAIN-SUFFIX,opgg-static.akamaized.net
