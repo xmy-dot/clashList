@@ -4,12 +4,15 @@
 # DOMAIN-KEYWORD 匹配域名关键词
 
 # 萌番组
-# 次元城
-# opgg
-
 DOMAIN-SUFFIX,bangumi.moe
+
+# 次元城
 DOMAIN-SUFFIX,cycdm01.top
 DOMAIN-SUFFIX,cyc-anime.net
 
+# opgg
 # DOMAIN-SUFFIX,op.gg
 # DOMAIN-SUFFIX,opgg-static.akamaized.net
+
+# qichiyu
+DOMAIN-SUFFIX,qichiyu.com
