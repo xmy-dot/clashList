@@ -2,3 +2,8 @@
 # DOMAIN 完全匹配域名
 # DOMAIN-SUFFIX 匹配域名后缀 DOMAIN-KEYWORD
 # DOMAIN-KEYWORD 匹配域名关键词
+
+# opgg
+
+DOMAIN-SUFFIX,op.gg
+DOMAIN-SUFFIX,opgg-static.akamaized.net
