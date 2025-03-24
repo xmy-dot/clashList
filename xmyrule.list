@@ -19,3 +19,7 @@ DOMAIN-SUFFIX,agemys.com
 DOMAIN-SUFFIX,qichiyu.com
 
 DOMAIN-SUFFIX,honmi.com
+
+# LSPosed
+DOMAIN-SUFFIX,lsposed.org
+DOMAIN-SUFFIX,modules.lsposed.org
