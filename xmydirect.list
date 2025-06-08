@@ -5,8 +5,8 @@
 
 # opgg
 
-DOMAIN-SUFFIX,op.gg
-DOMAIN-SUFFIX,opgg-static.akamaized.net
+# DOMAIN-SUFFIX,op.gg
+# DOMAIN-SUFFIX,opgg-static.akamaized.net
 
 # bt暂时用
 
