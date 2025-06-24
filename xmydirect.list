@@ -8,6 +8,10 @@
 # DOMAIN-SUFFIX,op.gg
 # DOMAIN-SUFFIX,opgg-static.akamaized.net
 
+# LSPosed
+DOMAIN-SUFFIX,lsposed.org
+DOMAIN-SUFFIX,modules.lsposed.org
+
 # bt暂时用
 
 PROCESS-NAME,aria2c,DIRECT
