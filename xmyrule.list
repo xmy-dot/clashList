@@ -24,15 +24,18 @@ DOMAIN-SUFFIX,honmi.com
 DOMAIN-SUFFIX,hanman18.com
 DOMAIN-SUFFIX,stripchatgirls.com
 DOMAIN-SUFFIX,hanime1.me
-DOMAIN-SUFFIX,vdownload.hembed.com
-DOMAIN-SUFFIX,assets.strpst.com
-DOMAIN-SUFFIX,cdn.daradara.me
+# DOMAIN-SUFFIX,vdownload.hembed.com
+# DOMAIN-SUFFIX,assets.strpst.com
+# DOMAIN-SUFFIX,cdn.daradara.me
 # DOMAIN-SUFFIX,img.doppiocdn.com
 # DOMAIN-SUFFIX,media-hls.doppiocdn.org
 # DOMAIN-SUFFIX,img.doppiocdn.org
 # 7/26 17：35
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,doppiocdn.com
+DOMAIN-SUFFIX,daradara.me
+DOMAIN-SUFFIX,strpst.com
+DOMAIN-SUFFIX,hembed.com
 
 
 # airport
