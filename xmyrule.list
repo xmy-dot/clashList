@@ -43,6 +43,6 @@ DOMAIN-SUFFIX,ovofast.com/
 DOMAIN-SUFFIX,5.6bcloud.top/
 
 # LSPosed
-# DOMAIN-SUFFIX,lsposed.org
-# DOMAIN-SUFFIX,modules.lsposed.org
+DOMAIN-SUFFIX,lsposed.org
+DOMAIN-SUFFIX,modules.lsposed.org
 
