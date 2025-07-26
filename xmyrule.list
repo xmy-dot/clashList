@@ -38,12 +38,13 @@ DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,hembed.com
 
 # twitch
-DOMAIN-SUFFIX,static-cdn.jtvnw.net/
+DOMAIN-SUFFIX,static-cdn.jtvnw.net
+DOMAIN-SUFFIX,s.amazon-adsystem.com
 
 
 # airport
-DOMAIN-SUFFIX,ovofast.com/
-DOMAIN-SUFFIX,5.6bcloud.top/
+DOMAIN-SUFFIX,ovofast.com
+DOMAIN-SUFFIX,5.6bcloud.top
 
 # LSPosed
 DOMAIN-SUFFIX,lsposed.org
