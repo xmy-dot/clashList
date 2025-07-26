@@ -37,6 +37,9 @@ DOMAIN-SUFFIX,daradara.me
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,hembed.com
 
+# twitch
+DOMAIN-SUFFIX,static-cdn.jtvnw.net/
+
 
 # airport
 DOMAIN-SUFFIX,ovofast.com/
