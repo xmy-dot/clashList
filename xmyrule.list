@@ -23,13 +23,17 @@ DOMAIN-SUFFIX,honmi.com
 # H
 DOMAIN-SUFFIX,hanman18.com
 DOMAIN-SUFFIX,stripchatgirls.com
-# 7/26 17点27分
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,vdownload.hembed.com
 DOMAIN-SUFFIX,assets.strpst.com
-DOMAIN-SUFFIX,img.doppiocdn.org
 DOMAIN-SUFFIX,cdn.daradara.me
-DOMAIN-SUFFIX,img.doppiocdn.com
+# DOMAIN-SUFFIX,img.doppiocdn.com
+# DOMAIN-SUFFIX,media-hls.doppiocdn.org
+# DOMAIN-SUFFIX,img.doppiocdn.org
+# 7/26 17：35
+DOMAIN-SUFFIX,doppiocdn.org
+DOMAIN-SUFFIX,doppiocdn.com
+
 
 # airport
 DOMAIN-SUFFIX,ovofast.com/
