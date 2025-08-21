@@ -5,12 +5,12 @@
 
 # opgg
 
-# DOMAIN-SUFFIX,op.gg
-# DOMAIN-SUFFIX,opgg-static.akamaized.net
+DOMAIN-SUFFIX,op.gg
+DOMAIN-SUFFIX,opgg-static.akamaized.net
 
 # LSPosed
-# DOMAIN-SUFFIX,lsposed.org
-# DOMAIN-SUFFIX,modules.lsposed.org
+DOMAIN-SUFFIX,lsposed.org
+DOMAIN-SUFFIX,modules.lsposed.org
 
 # bt暂时用
 
@@ -46,3 +46,4 @@ PROCESS-NAME,xray,DIRECT
 PROCESS-NAME,hysteria,DIRECT
 PROCESS-NAME,UUBooster,DIRECT
 PROCESS-NAME,uugamebooster,DIRECT
+
