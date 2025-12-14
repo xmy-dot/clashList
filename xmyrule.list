@@ -23,7 +23,8 @@ DOMAIN-SUFFIX,qichiyu.com
 
 DOMAIN-SUFFIX,honmi.com
 
-# H
+# H
+
 DOMAIN-SUFFIX,stripchatgirls.com
 DOMAIN-SUFFIX,hanime1.me
 # DOMAIN-SUFFIX,vdownload.hembed.com
@@ -85,12 +86,52 @@ DOMAIN-SUFFIX,ovofast.com
 DOMAIN-SUFFIX,5.6bcloud.top
 
 # LSPosed
-#DOMAIN-SUFFIX,lsposed.org
-#DOMAIN-SUFFIX,modules.lsposed.org
+#
+DOMAIN-SUFFIX,lsposed.org
+#
+DOMAIN-SUFFIX,modules.lsposed.org
 
 # zzz
 DOMAIN-SUFFIX,zzz.rng.moe
 DOMAIN-SUFFIX,hoyolab.com
+
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,setup.auth.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,tcr9i.chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,files.oaiusercontent.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,js.intercomcdn.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,js.stripe.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,android.chat.openai.com
+DOMAIN-SUFFIX,desktop.chat.openai.com
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,setup.workos.com
+DOMAIN-SUFFIX,events.launchdarkly.com
+DOMAIN-SUFFIX,forwarder.workos.com
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,app.launchdarkly.com
+DOMAIN-SUFFIX,o207216.ingest.sentry.io
+DOMAIN-SUFFIX,workos.imgix.net
+DOMAIN-SUFFIX,cdn.workos.com
+DOMAIN-SUFFIX,images.workoscdn.com
+DOMAIN-SUFFIX,ct.sendgrid.net
 
 
 
