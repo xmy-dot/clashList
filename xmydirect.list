@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,opgg-static.akamaized.net
 # 次元城
 DOMAIN-SUFFIX,cycdm01.top
 DOMAIN-SUFFIX,cyc-anime.net
+DOMAIN-SUFFIX,cycani.org
+DOMAIN-SUFFIX,cycimg.me
+DOMAIN-SUFFIX,cycanime.com
+DOMAIN-SUFFIX,cycity.pro
 
 # bt暂时用
 
@@ -50,5 +54,6 @@ PROCESS-NAME,xray,DIRECT
 PROCESS-NAME,hysteria,DIRECT
 PROCESS-NAME,UUBooster,DIRECT
 PROCESS-NAME,uugamebooster,DIRECT
+
 
 
