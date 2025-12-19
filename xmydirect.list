@@ -9,8 +9,12 @@ DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,opgg-static.akamaized.net
 
 # LSPosed
-DOMAIN-SUFFIX,lsposed.org
-DOMAIN-SUFFIX,modules.lsposed.org
+# DOMAIN-SUFFIX,lsposed.org
+# DOMAIN-SUFFIX,modules.lsposed.org
+
+# 次元城
+DOMAIN-SUFFIX,cycdm01.top
+DOMAIN-SUFFIX,cyc-anime.net
 
 # bt暂时用
 
@@ -46,4 +50,5 @@ PROCESS-NAME,xray,DIRECT
 PROCESS-NAME,hysteria,DIRECT
 PROCESS-NAME,UUBooster,DIRECT
 PROCESS-NAME,uugamebooster,DIRECT
+
 
