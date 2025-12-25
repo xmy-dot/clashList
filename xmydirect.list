@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,cycimg.me
 DOMAIN-SUFFIX,cycanime.com
 DOMAIN-SUFFIX,cycity.pro
 
+DOMAIN-SUFFIX,cpubenchmark.net
+
 # bt暂时用
 
 PROCESS-NAME,aria2c,DIRECT
@@ -54,6 +56,7 @@ PROCESS-NAME,xray,DIRECT
 PROCESS-NAME,hysteria,DIRECT
 PROCESS-NAME,UUBooster,DIRECT
 PROCESS-NAME,uugamebooster,DIRECT
+
 
 
 
