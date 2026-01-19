@@ -127,6 +127,9 @@ DOMAIN-SUFFIX,cdn.workos.com
 DOMAIN-SUFFIX,images.workoscdn.com
 DOMAIN-SUFFIX,ct.sendgrid.net
 
+# nba
+DOMAIN-SUFFIX,allbasketball.org
+
 
 
 
