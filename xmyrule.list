@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,hanime1.me
 # DOMAIN-SUFFIX,img.doppiocdn.com
 # DOMAIN-SUFFIX,media-hls.doppiocdn.org
 # DOMAIN-SUFFIX,img.doppiocdn.org
-# 7/26 17：35
+
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,daradara.me
@@ -70,6 +70,8 @@ DOMAIN-SUFFIX,shupogaki.moe
 DOMAIN-SUFFIX,tongli.com
 DOMAIN-SUFFIX,toptoon.net
 DOMAIN-SUFFIX,wnacg05.cc
+DOMAIN-SUFFIX,wn05.ru
+DOMAIN-SUFFIX,wn07.ru
 
 
 
@@ -129,6 +131,7 @@ DOMAIN-SUFFIX,ct.sendgrid.net
 
 # nba
 DOMAIN-SUFFIX,allbasketball.org
+
 
 
 
