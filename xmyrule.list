@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,modules.lsposed.org
 # zzz
 DOMAIN-SUFFIX,zzz.rng.moe
 DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,loverslab.com
 
 
 DOMAIN-SUFFIX,openai.com
@@ -131,6 +132,7 @@ DOMAIN-SUFFIX,ct.sendgrid.net
 
 # nba
 DOMAIN-SUFFIX,allbasketball.org
+
 
 
 
