@@ -57,6 +57,11 @@ PROCESS-NAME,hysteria,DIRECT
 PROCESS-NAME,UUBooster,DIRECT
 PROCESS-NAME,uugamebooster,DIRECT
 
+# pixiv
+
+PROCESS-NAME,i.pixiv.re
+PROCESS-NAME,i.pximg.net
+
 
 
 
