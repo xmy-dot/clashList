@@ -3,6 +3,10 @@
 # DOMAIN-SUFFIX 匹配域名后缀 DOMAIN-KEYWORD
 # DOMAIN-KEYWORD 匹配域名关键词
 
+# majsoul
+
+DOMAIN-SUFFIX,maj-soul.com
+
 # opgg
 
 DOMAIN-SUFFIX,op.gg
