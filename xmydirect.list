@@ -125,11 +125,11 @@ DOMAIN-SUFFIX,xauat6.edu.cn,DIRECT
 
 # pixiv
 
-PROCESS-NAME,i.pixiv.re
-PROCESS-NAME,i.pximg.net
+DOMAIN-SUFFIX,i.pixiv.re
+DOMAIN-SUFFIX,i.pximg.net
 
 # bangumi
-PROCESS-NAME,bgm.tv
+DOMAIN-SUFFIX,bgm.tv
 
 
 
