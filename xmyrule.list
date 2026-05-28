@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,agemys.com
 DOMAIN-SUFFIX,acgbox.link
 DOMAIN-SUFFIX,anime1.me
 
+# bangumi
+DOMAIN-SUFFIX,bgm.tv
+
 # opgg
 # DOMAIN-SUFFIX,op.gg
 # DOMAIN-SUFFIX,opgg-static.akamaized.net
